@@ -1,4 +1,4 @@
-# ⚡ Hello, I'm [Your Name]! 
+# ⚡ Hello, I'm Yousef! 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45E6B0&center=true&vCenter=true&width=435&lines=Computer+Science+Student;MERN+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
